@@ -4,18 +4,6 @@
 </h1>
 
 <p align="center">
-  
-    <img src="https://github.com/SafdarJamal/crud-app/workflows/Node.js%20CI/badge.svg" alt="Node.js CI" />
-  </a>
-  <a href="https://github.com/SafdarJamal/crud-app/releases">
-    <img src="https://img.shields.io/github/v/release/SafdarJamal/crud-app" alt="GitHub Release (latest by date)" />
-  </a>
-  <a href="https://github.com/SafdarJamal/crud-app/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/SafdarJamal/crud-app" alt="License" />
-  </a>
-</p>
-
-<p align="center">
   A simple and beautiful <a href="https://www.codecademy.com/articles/what-is-crud">CRUD</a> application built with <a href="https://reactjs.org">React</a>.
 </p>
 
@@ -32,7 +20,7 @@
 To get a local copy of the code, clone it using git:
 
 ```
-git clone https://github.com/SafdarJamal/crud-app.git
+git clone https://github.com/vishwakarmavineet/CRUD-App-React.git
 cd crud-app
 ```
 
