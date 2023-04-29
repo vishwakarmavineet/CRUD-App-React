@@ -1,11 +1,10 @@
 <h1 align="center">
-  <a href="https://safdarjamal.github.io/crud-app/">
     CRUD App
   </a>
 </h1>
 
 <p align="center">
-  <a href="https://github.com/SafdarJamal/crud-app/actions?query=workflow%3A%22Node.js+CI%22">
+  
     <img src="https://github.com/SafdarJamal/crud-app/workflows/Node.js%20CI/badge.svg" alt="Node.js CI" />
   </a>
   <a href="https://github.com/SafdarJamal/crud-app/releases">
@@ -60,10 +59,3 @@ and then you can open http://localhost:3000 to view it in the browser.
 | npm run build | Builds the app for production to the `build` folder.                    |
 | npm run eject | This command will remove the single build dependency from your project. |
 
-## Credits
-
-CRUD App is built and maintained by [Safdar Jamal](https://safdarjamal.github.io).
-
-## License
-
-CRUD App is open-source software licensed under the [MIT License](https://github.com/SafdarJamal/crud-app/blob/master/LICENSE).
